@@ -1,0 +1,10 @@
+vim ~/.bashrc
+
+alias cls=clear
+alias kga="kubectl get all"
+alias k=kubectl
+alias kn= copy from kubernetes.io
+
+export do="--dry-run=client -o yaml"
+export kfc="kubectl apply -f"
+export now="--grace-period=0 --force"
