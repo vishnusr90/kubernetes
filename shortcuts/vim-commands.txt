@@ -1,0 +1,10 @@
+
+i            -> insert
+Shift + v    -> select line
+set nu -> sets numbers
+dd           -> deletes line
+u            -> undo
+y            -> copy
+p            -> paste
+3yy          -> copies 3 lines down from the cursor 
+Type /<word> -> It will highlight the word in file
